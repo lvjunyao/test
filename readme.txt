@@ -5,4 +5,8 @@
 12132
 1231321
 11231322
+<<<<<<< HEAD
 master
+=======
+feature
+>>>>>>> featurel
